@@ -8,7 +8,7 @@
 - 👯 Bio <br><br>
 **I am a data analyst and machine learning engineer with 2 years of experience in programming and data analysis with knowledge of ML frameworks, libraries, and data structures (Scikit-learn, Pandas, NumPy) ,deep learning libraries, such as Tensorflow and PyTorch and applications to NLP and computer vision, and 3 years of experience in the biotech industry applying systems biology, computational biology, and bioinformatics. With excellent communication skills, I can clearly articulate complex Machine Learning concepts to both technical and non-technical stakeholders. Additionally, I possess strong collaborative skills, prioritize tasks effectively and demonstrate leadership qualities to drive successful projects. As a self-driven individual, I am always eager to learn new skills and tackle new challenges. So, if you're looking for someone with a passion for data analysis and a drive to learn and grow, look no further!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anvasquezre](https://github.com/anvasquezre)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/anvasquezre)
 
 - 💬 Ask me about **Python, Matlab, Biotechnology, Bioinformatics, Machine Learning, Deep Learning**
 
