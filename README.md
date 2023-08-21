@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Vasquez</h1>
 <h3 align="center">A passionate Machine Learning Engineer & Data Scientist from Colombia</h3>
 
-- 🔭 I’m currently working on [AnyoneAI](https://anyoneai.com/)
+- 🔭 I’m currently working on `TenantEvaluation`
 
 - 🌱 I’m currently learning...and always learning more **Python, Pythorch, Keras, Pandas, Machine Learning, Deep Learning**
 
