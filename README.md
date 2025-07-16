@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **anvasquezre@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tuhbn_G4CaT5PQTCIMcaBxYffHD1fBDe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/anvasquezre/CV/blob/main/main.pdf)
 
-- ⚡ Fun fact **27 years old with a knee of 60**
+- ⚡ Fun fact **29 years old with a knee of 60**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
